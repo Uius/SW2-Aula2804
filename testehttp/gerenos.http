@@ -1,3 +1,12 @@
 @url = https://super-duper-bassoon-4jq5x96x6w4rcj4j4-3000.app.github.dev
 
 GET {{url}}/api/v1/generos
+
+###
+POST {{url}}/api/v1/generos
+Content-Type: application/json
+
+{
+    "id" : 10,
+    "nome" : "Biografia"
+}
