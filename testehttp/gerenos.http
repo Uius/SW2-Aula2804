@@ -3,6 +3,9 @@
 GET {{url}}/api/v1/generos
 
 ###
+GET {{url}}/api/v1/generos/1
+
+###
 POST {{url}}/api/v1/generos
 Content-Type: application/json
 
