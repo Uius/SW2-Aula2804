@@ -3,7 +3,7 @@
 GET {{url}}/api/v1/generos
 
 ###
-GET {{url}}/api/v1/generos/1
+GET {{url}}/api/v1/generos/teste
 
 ###
 POST {{url}}/api/v1/generos
